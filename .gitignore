@@ -1,0 +1,6 @@
+archivo-secreto.txt
+*.log
+*.tmp
+*.bak
+.env
+*.zip
