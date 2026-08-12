@@ -1,3 +1,6 @@
-# Hola Mundo en tamanio H1
-- lista no ordenada con -
-1. lista ordenada con 1. 
+# CURSO DE GIT
+## Sakura MC
+
+- Comandos de consola
+- Repositorios remotos
+- Trabajo colaborativo
