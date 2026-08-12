@@ -4,5 +4,3 @@ archivo-secreto.txt
 *.bak
 .env
 *.zip
-/node_modules
-/imagenes
